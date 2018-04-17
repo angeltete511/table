@@ -1,0 +1,19 @@
+@import "./reset.css";
+@import "./bootstrap.min.css";
+@import "./bootstrap-card.css";
+@import "./font-awesome.min.css";
+@import "./compodoc.css";
+@import "./vagrant.css";
+
+.copyright {
+    text-indent: 200%;
+    white-space: nowrap;
+    background-repeat:no-repeat !important;
+    background-position: center center !important;
+    background-image: url('../docs-assets/assets/logo_vw_269px.svg') !important;
+    background-size: 269px !important;
+    height: 120px;
+}
+.copyright a {
+    display: none !important;
+}
