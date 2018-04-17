@@ -4,7 +4,7 @@
   "description": "modulo tabla",
   "repository": {
     "type": "git",
-    "url": "https://git.volkswagengroup.es/vw-arch/vged-table.git"
+    "url": "https://github.com/angeltete511/vged-table"
   },
   "author": "VGED",
   "license": "LicenseRef-LICENSE",
